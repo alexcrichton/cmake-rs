@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["build","Builds the native library rooted at `path` with the default cmake options. This will return the directory in which the library was installed."]],"struct":[["Config","Builder style configuration for a pending CMake build."]]});
